@@ -1,5 +1,5 @@
 # Sözlük (dict) ve Class yapısı kullanarak Kütüphanesi Otomasyonu Tasarımı
-# Özgün Kod Paylaşımı GitLab
+
 """
 1-Kitap Ekle
 2-Kitap Listele
